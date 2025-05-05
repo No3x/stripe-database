@@ -1,0 +1,1 @@
+org.springframework.context.ApplicationContextInitializer=de.no3x.stripedatabase.config.StripeInitializer
